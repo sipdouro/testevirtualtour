@@ -121,11 +121,11 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Teste",
+  "name": "SipDouro",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
